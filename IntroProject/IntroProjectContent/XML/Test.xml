@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entity>
+    <Offset>
+      <X>320</X>
+      <Y>416</Y>
+    </Offset>
+    <Size>
+      <X>80</X>
+      <Y>16</Y>
+    </Size>
+    <Velocity>
+      <X>0</X>
+      <Y>0</Y>
+    </Velocity>
+    <Acceleration>
+      <X>0</X>
+      <Y>0</Y>
+    </Acceleration>
+    <Name>test</Name>
+    <Type>Text</Type>
+    <CustomProperty>
+        <Name>DisplayText</Name>
+        <Value>This is a test</Value>
+    </CustomProperty>
+  </Entity>
+</XmlData>
